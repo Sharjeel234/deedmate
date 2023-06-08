@@ -1,0 +1,15 @@
+.large-text-container-1 {
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0;
+  font-weight: bolder;
+}
+
+.large-text-container-1 p {
+  color: white;
+  margin: 0;
+  font-weight: 900;
+}

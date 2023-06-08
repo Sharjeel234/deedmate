@@ -1,0 +1,50 @@
+* {
+  font-family: "Inter";
+  font-style: normal;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000000;
+  height: 70px;
+  padding: 0 20px;
+  /* width: 90vw; */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-logo a {
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navbar-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+}
+
+.navbar-menu a {
+  font-size: 18px;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* .navbar-menu li:hover {
+  background-color: #8956f1;
+} */
+.hover:hover {
+  color: #8956f1; /* Change this to your desired color */
+}
+.navbar-actions a {
+  padding: 10px 20px;
+  background-color: #8956f1;
+  color: #ffffff;
+  border-radius: 5px;
+  text-decoration: none;
+}

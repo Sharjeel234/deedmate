@@ -1,0 +1,51 @@
+.cards2 {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #eee;
+}
+
+.box-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.box {
+  background-color: #cb80ff;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.card-section-2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 270px;
+  justify-content: center;
+}
+
+.cardheader2 {
+  color: #fff;
+  padding-top: 15px;
+  font-size: x-large;
+  font-weight: 900;
+}
+.cardheader2 h2 {
+  color: white;
+}

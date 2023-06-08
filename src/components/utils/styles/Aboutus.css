@@ -1,0 +1,50 @@
+.team-members {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.team-member {
+  text-align: center;
+  margin: 0 20px;
+}
+
+.team-member h2 {
+  color: #8956f1;
+  font-size: 30px;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+
+.team-member p {
+  color: white;
+  font-size: 20px;
+}
+
+.our-goal {
+  text-align: center;
+  margin-top: 100px;
+  color: white;
+}
+
+.our-goal h2 {
+  color: #8956f1;
+  font-size: 50px;
+}
+
+.our-goal p {
+  font-size: 30px;
+  margin: 40px 50px 100px 50px;
+  text-align: justify;
+}
+
+.tm {
+  color: #8956f1;
+  text-align: center;
+  font-size: 50px;
+}
+
+.auf {
+  margin-top: 50px;
+  padding-top: 50px;
+}

@@ -1,0 +1,26 @@
+.container {
+  margin-top: 40px;
+  padding-top: 10px;
+  background-color: black;
+}
+h2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+.Card_p {
+  color: black;
+  font-size: 20px;
+}
+.form {
+  margin-top: 20px;
+  background-color: black;
+}
+
+.op {
+  background-color: black;
+}
+
+.cugrid {
+  padding: 30px;
+}

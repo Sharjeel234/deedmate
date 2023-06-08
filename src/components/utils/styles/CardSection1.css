@@ -1,0 +1,21 @@
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(254, 250, 241, 0.2);
+  border-radius: 30px;
+  width: 900px;
+  height: 470px;
+  margin: 0 auto;
+}
+
+.card-section .MuiCard-root {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.btn {
+  background-color: #cb80ff;
+}

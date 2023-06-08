@@ -1,0 +1,19 @@
+.large-text-container-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+}
+
+p {
+  color: white;
+  font-weight: normal;
+  margin: 0;
+  font-size: 45px;
+}
+.Text2-Btns {
+  display: "flex";
+  justify-content: "center";
+  margin-top: 35px;
+}
